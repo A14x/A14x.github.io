@@ -1,6 +1,4 @@
-# A14x
-
-## About me 
+# About me 
 
 - Currently studying A levels in:
   - Computer Science
