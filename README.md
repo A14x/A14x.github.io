@@ -6,3 +6,5 @@
   - Phyisics
 - Arkwright Scholar
 - Planning to study Computer Science at university
+
+# Notable Projects
